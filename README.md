@@ -3,8 +3,14 @@
 <br>
 <br>
 
-## Objective:
-The primary goal of this project is to implemeent a Customer Segmentation strategy using RFM analysis. By categorizing customers based on their purchasing behavior, we aim to identify key customer segments such as high-value customers, at-risk and inactive customers. This analysis will provide actionable insights to optimize marketing strategies, improve customer retention, and tailor promotional efforts for each segment to maximize revenue and enhance CLV.
+ ## Objective of this analysis
+ - Identify Customers who contribute the most to our revenue portfolio and their purchase behavior.
+
+<br>
+
+ ## What is the success factor for this analysis?
+ - Offer clear insights and recommendations through customer segmentation techniques such as RFM(Recency, Frequency, Monetary).
+ - By that, we hope conttribute with marketing strategies optimization, resource allocation, improve customer retention and tailor promotional efforts for each segment to maximize revenue and enhance CLV.
 
 <br>
 <br>
@@ -17,11 +23,9 @@ RFM analysis is widely used by marketing teams to segment customers based on thr
 - **Frecency**: Indicates how often they buy
 - **Monetary**: Measures how much money they spend
 
+<br>
+<br>
 
-By analyzing these factors, we can help marketing team at targeted campaigns, customer retention, resource allocation, and data-driven decision making.
-<br>
-<br>
-<br>
 
 ### Stack I used for this project:
 
