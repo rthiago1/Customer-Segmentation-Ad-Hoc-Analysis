@@ -44,5 +44,5 @@ By analyzing these factors, we can help marketing team at targeted campaigns, cu
 
 The dataset is available [here](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
 )
-and the dashboard can be found [here](https://app.powerbi.com/groups/me/reports/8e0b9318-8fd5-4e35-97e0-a5ac93c21eed/c4412514fd05e460650e?experience=power-bi).
+and the dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNzI5YmE3YjktODBkZi00ZDZhLWFiNTAtOGM2YzgyMDg5MzMzIiwidCI6ImRkNjZhNjhkLTM1ZGEtNGE4NS05NDJhLTRiYTg4NTI1ZGIzMiIsImMiOjh9).
 
