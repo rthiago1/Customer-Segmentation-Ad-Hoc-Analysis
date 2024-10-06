@@ -39,7 +39,7 @@ RFM analysis is widely used by marketing teams to segment customers based on thr
 
 ### Key Highlights:
 
-- The analysis period spans from **01-12-2010** to **09-12-2021**.
+- The analysis period spans from **01-12-2010** to **09-12-2011**.
 - The focus is on customers based in the United Kingdom.
 - The project follows the CRISP-DM framework to ensure structured and consistent progress throughout the analysis.
 - This is not the final version, as continuous improvements can always be made to refine the analysis.
