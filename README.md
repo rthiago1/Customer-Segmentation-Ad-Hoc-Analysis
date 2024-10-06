@@ -48,5 +48,5 @@ RFM analysis is widely used by marketing teams to segment customers based on thr
 
 The dataset is available [here](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
 )
-and the dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNzI5YmE3YjktODBkZi00ZDZhLWFiNTAtOGM2YzgyMDg5MzMzIiwidCI6ImRkNjZhNjhkLTM1ZGEtNGE4NS05NDJhLTRiYTg4NTI1ZGIzMiIsImMiOjh9).
+and the dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZmNkMWYzMGYtZTExMy00YTM4LTlmMGMtZDJhMTVkZGM2NGQ0IiwidCI6ImRkNjZhNjhkLTM1ZGEtNGE4NS05NDJhLTRiYTg4NTI1ZGIzMiIsImMiOjh9).
 
